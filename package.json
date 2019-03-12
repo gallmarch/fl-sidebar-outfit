@@ -1,7 +1,7 @@
 {
-  "name": "fl-outfit",
+  "name": "fl-sidebar-outfit",
   "version": "0.1.0",
-  "description": "Sidebar outfit changer",
+  "description": "Sidebar outfit control",
   "repository": "https://github.com/gallmarch/fl-outfit.git",
   "author": "sdob <sdob@cs.ucc.ie>",
   "license": "MIT",

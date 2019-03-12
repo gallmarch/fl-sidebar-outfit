@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "Fallen London Sidebar Outfit",
+  "name": "Fallen London Sidebar Outfit Control",
   "description": "This extension does something.",
   "permissions": [
     "webRequest",
